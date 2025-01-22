@@ -1,5 +1,9 @@
 ### How to Run the Project
 
+
+https://github.com/user-attachments/assets/bb6b90ba-0255-4e7c-8bc5-7e2fcd4f531f
+
+
 #### Prerequisites
 - Docker and Docker Compose installed on your system
 - Git (for cloning the repository)
